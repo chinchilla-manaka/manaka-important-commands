@@ -12,4 +12,4 @@ If that's the case, I hope you find this repo useful.
 
 ![flex](media/flex.png)
 
-[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](monero:45CQ9mN5FGQGqtjQc7pZP2bbYeLocmZSSduhGiYDd6CUCP38uU8498KFeUWg6B2ureRbQvejPfjDWfa1ycezugEkCWetSVA)
+[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](monero:45CQ9mN5FGQGqtjQc7pZP2bbYeLocmZSSduhGiYDd6CUCP38uU8498KFeUWg6B2ureRbQvejPfjDWfa1ycezugEkCWetSVA) ``45CQ9mN5FGQGqtjQc7pZP2bbYeLocmZSSduhGiYDd6CUCP38uU8498KFeUWg6B2ureRbQvejPfjDWfa1ycezugEkCWetSVA``
